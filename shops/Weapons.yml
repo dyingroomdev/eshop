@@ -1,0 +1,88 @@
+pages:
+  page1:
+    gui-rows: 6
+    items:
+      '1':
+        material: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.3
+        sell: 48.33
+      '2':
+        material: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 199.24
+        sell: 49.81
+      '3':
+        material: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 195.57
+        sell: 48.9
+      '4':
+        material: HOST_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 204.52
+        sell: 51.13
+      '5':
+        material: NETHERITE_UPGRADE_SMITHING_TEMPLATE
+        buy: 193.05
+        sell: 48.27
+      '6':
+        material: RAISER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 204.52
+        sell: 51.13
+      '7':
+        material: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.05
+        sell: 48.27
+      '8':
+        material: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.3
+        sell: 48.33
+      '9':
+        material: SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 204.52
+        sell: 51.13
+      '10':
+        material: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.3
+        sell: 48.33
+      '11':
+        material: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.34
+        sell: 48.34
+      '12':
+        material: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 194.68
+        sell: 48.67
+      '13':
+        material: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 208.38
+        sell: 52.1
+      '14':
+        material: VEX_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.3
+        sell: 48.33
+      '15':
+        material: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 193.3
+        sell: 48.33
+      '16':
+        material: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 204.52
+        sell: 51.13
+      '17':
+        material: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
+        buy: 197.18
+        sell: 49.3
+      '18':
+        material: DIAMOND_PICKAXE
+        buy: 2646.82
+        sell: 661.71
+      '19':
+        material: DIAMOND_SHOVEL
+        buy: 882.82
+        sell: 220.71
+      '20':
+        material: DIAMOND_SWORD
+        buy: 1764.41
+        sell: 441.11  
+      '21':
+        material: DIAMOND_AXE
+        buy: 2646.82
+        sell: 661.71
